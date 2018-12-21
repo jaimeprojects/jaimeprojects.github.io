@@ -1,8 +1,7 @@
 # main links links
 main:
-    - title: "My Specs"
+  - title: "My Specs"
     url: /cv/
-
   - title: "Publications"
     url: /publications/
 #inactive tabs
