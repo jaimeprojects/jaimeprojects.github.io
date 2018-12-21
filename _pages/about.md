@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+What can I find here
+======
 This is my personal page where you can find some more information on projects that I have been working on.
 
 
