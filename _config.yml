@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaime / Personal Projects"
+title                    : "Jaime E. Vega"
 title_separator          : "-"
 name                     : &name "Jaime Vega"
 description              : &description "personal description"
