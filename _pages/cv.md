@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My Specs"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Philosophy, Saint John's University, May 2019 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Android Development Internship
+  * [Divine Digital Agency] https://www.divinedigitalagency.com/
+  * Built a client application from ground up
+  * Supervisor: CTO
 
 * Fall 2015: Research Assistant
   * Github University
@@ -56,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary Officer for Hmong American Involving Students Organization 2016-17
+* Program Coordinator for Asia Club 2017-18
+* Interculural Leadership Education and Development Scholar
