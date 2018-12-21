@@ -2,21 +2,12 @@
 main:
   - title: "My Specs"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/
-inactive tabs
-  - title: "Talks"
-    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-  
-  - title: "Guide"
-    url: /markdown/
+
+#example
+#  - title: "Guide"
+#    url: /markdown/ <--name of html or file in same dir as this
+#

@@ -19,7 +19,7 @@ Work experience
 * Summer 2018: Android Development Internship
   * [Divine Digital Agency] https://www.divinedigitalagency.com/
   * Built a client application from ground up
-  * Supervisor: CTO
+  * Supervisor: CTO and development team
 
 * Fall 2015: Research Assistant
   * Github University
