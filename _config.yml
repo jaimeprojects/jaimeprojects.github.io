@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jaime E. Vega"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "JaimeAvatar.png"
+  bio              : "Welcome to my page were you can check out some of my projects"
+  location         : "Collegeville"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jevega@csbsju.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/jaimeevega"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
