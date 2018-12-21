@@ -2,22 +2,21 @@
 main:
   - title: "My Specs"
     url: /cv/
+    
   - title: "Publications"
     url: /publications/
-#inactive tabs
-#  - title: "Talks"
-#    url: /talks/    
+inactive tabs
+  - title: "Talks"
+    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Blog Posts"
+    url: /year-archive/
+  
+  - title: "Guide"
+    url: /markdown/
