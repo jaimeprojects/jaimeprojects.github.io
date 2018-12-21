@@ -12,48 +12,41 @@ redirect_from:
 Education
 ======
 * B.S. in Philosophy, Saint John's University, May 2019 (expected)
+* Minor in Computer Science
 
 
 Work experience
-======
+====== 
 * Summer 2018: Android Development Internship
-  * [Divine Digital Agency] https://www.divinedigitalagency.com/
+  *[Divine Digital Agency] https://www.divinedigitalagency.com/
   * Built a client application from ground up
   * Supervisor: CTO and development team
 
 * Fall 2015: Research Assistant
-  * Github University
+  * College of Saint Benedict
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Mark Zaske
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Agile based software development methods
+* Computer Maitenance
+  * Operating System Installation
+  * Hardware Upgrading
+  * 
+* Quick learner
+*
 
-Publications
+Relevant Coursework
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Data Structures Spring 2018
+  * Software Development Spring 2018
+  * Software Engineering Fall 2018
+  * Agile & Efficient Software Development Spring 2018
+  * Data Communications & Networking Spring 2018
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Service and Leadership
 ======
 * Secretary Officer for Hmong American Involving Students Organization 2016-17
 * Program Coordinator for Asia Club 2017-18
