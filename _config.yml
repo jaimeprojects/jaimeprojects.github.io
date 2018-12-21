@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaime / Site Title"
+title                    : "Jaime / Personal Projects"
 title_separator          : "-"
 name                     : &name "Jaime Vega"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaime E. Vega"
-  avatar           : "JaimeAvatar.png"
+  avatar           : "profile_jaime.png"
   bio              : "Welcome to my page were you can check out some of my projects"
   location         : "Collegeville"
   employer         :
