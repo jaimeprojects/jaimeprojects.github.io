@@ -7,12 +7,12 @@ collection: portfolio
 ## Goal: 
 Be able to monitor my laundry from anywhere in the world
 
-#Hardware:
+# Hardware:
 [Adafruit_Feather](https://www.adafruit.com/)
 
-#Method:
+# Method:
 
-I'll put description here soon
+The original idea that I had was to make an Internet of Things device that would utilize a 3-axis accelorometer to monitor activity. Once the wash would be completed it would pin a website that then talks to [IFTT](https://www.iftt.com) to then alert me that its complete
 
 
 legacy stuff here VVVV
