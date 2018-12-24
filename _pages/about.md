@@ -14,7 +14,7 @@ This is my personal page where you can find some more information on projects th
 
 you can also find some of my educational and technical backround by looking at [myspecs](/cv)
 
-For more information about some of my project go [here!.btn](/portfolio)
+For more information about some of my project go [here!](/portfolio)
 
 
 ###### Last updated 23/12/2018 
