@@ -31,9 +31,9 @@ Work Experience
   * Supervisor: Mark Zaske
 
  * Press Release Distributor      | March 2015 - Present | Boca Raton, FL 
-  * My primary role is to distribute various press releases for South East Florida region
-  * The impact of my work is to promote local events that and help people stay in the ‘know'
-  * Coverage is anywhere from grand opening or major local events
+    * My primary role is to distribute various press releases for South East Florida region
+    * The impact of my work is to promote local events that and help people stay in the ‘know'
+    * Coverage is anywhere from grand opening or major local events
   
 Skills
 ======
