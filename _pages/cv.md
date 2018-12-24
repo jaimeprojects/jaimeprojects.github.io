@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Philosophy, Saint John's University, May 2019 (expected)
+* B.S. in Philosophy, Saint John's University, May 2019 (anticipated)
 * Minor in Computer Science
 
 
-Work experience
+Work Experience
 ====== 
 * Summer 2018: Android Development Internship     June 2018 - August 2018 | Naples, FL
   * [Divine_Digital_Agency] https://www.divinedigitalagency.com/
@@ -31,6 +31,9 @@ Work experience
   * Supervisor: Mark Zaske
 
 * Press Release Distributor       March 2015 - Present | Boca Raton, FL 
+  * My primary role is to distribute various press releases for South East Florida region
+  * The impact of my work is to promote local events that and help people stay in the ‘know'
+  * Coverage is anywhere from grand opening or major local events
   
 Skills
 ======
@@ -38,9 +41,12 @@ Skills
 * Computer Maitenance
   * Operating System Installation
   * Hardware Upgrading
-  * 
 * Quick learner
-*
+* Final Cut Pro
+* Adobe Creative Studio
+* Java 8
+* Preferred Version Control Software --> Git
+* Some Experience in Python
 
 Relevant Coursework
 ======
