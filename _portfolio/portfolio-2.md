@@ -1,6 +1,6 @@
 ---
 title: "Foley Client Manager"
-excerpt: "Taking guesswork out of doing laundry <br/><img src='/images/wash_render.png'>"
+excerpt: "Tracking Food metrics made easier <br/><img src='/images/cross.jpg'>"
 collection: portfolio
 ---
 
