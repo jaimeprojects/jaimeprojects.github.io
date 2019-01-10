@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-What can you find here
+Welcome! Hola!
 ======
-This is my personal page where you can find some more information on projects that I have been working on.
+My studies in Philosopphy have opened my eyes to the wonders that is the world and the human mind. There are some spectacular things that can be mirrored and still hold grand importance in everyday life. Alongside I have studied computer science and built my abilites to change the world with modern tools using methods developed by philosophical giants of days past.
 
-you can also find some of my educational and technical backround by looking at [myspecs](/cv)
+You can also find some of my educational and technical backround by looking at [myspecs](/cv)
 
 For more information about some of my project go [here!](/portfolio)
 
-
-###### Last updated 23/12/2018 
+###### Last updated 10/01/2018 
