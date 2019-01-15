@@ -24,7 +24,7 @@ Work Experience
 
 * Student Media Technician        | January 2017 - Present | St.Joseph, MN 
   * College of Saint Benedict
-  * Duties included: Provide event support to guest lectures and other  largescale events
+  * Duties included: Provide event support to guest lectures and other largescale events
   * Trained in audio/visual equipment set up and filmography
     * Adobe Cloud Studio
     * Final Cut Pro
@@ -33,28 +33,16 @@ Work Experience
  * Press Release Distributor      | March 2015 - Present | Boca Raton, FL 
     * My primary role is to distribute various press releases for South East Florida region
     * The impact of my work is to promote local events that and help people stay in the ‘know'
-    * Coverage is anywhere from grand opening or major local events
-  
-Skills
-======
-* Agile based software development methods
-* Computer Maitenance
-  * Operating System Installation
-  * Hardware Upgrading
-* Quick learner
-* Final Cut Pro
-* Adobe Creative Studio
-* Java 8
-* Preferred Version Control Software --> Git
-* Some Experience in Python
+    * Coverage is anywhere from grand openings or major local events
+
 
 Relevant Coursework
 ======
   * Data Structures Spring 2018
   * Software Development Spring 2018
   * Software Engineering Fall 2018
-  * Agile & Efficient Software Development Spring 2018
-  * Data Communications & Networking Spring 2018
+  * Agile & Efficient Software Development Spring 2019
+  * Data Communications & Networking Spring 2019
 
   
 Service and Leadership
