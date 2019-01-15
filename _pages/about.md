@@ -15,5 +15,3 @@ My studies in Philosopphy have opened my eyes to the wonders that is the world a
 You can also find some of my educational and technical backround by looking at [my_history](/cv)
 
 For more information about some of my projects go [here!](/portfolio)
-
-###### Last updated 10/01/2018 
