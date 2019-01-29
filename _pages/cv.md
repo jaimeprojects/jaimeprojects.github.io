@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ====== 
-### Divine Digital Agency  https://www.divinedigitalagency.com/
+### Divine Digital Agency
 * Summer 2018: Android Development Internship    | June 2018 - August 2018 | Naples, FL
   * Built a client application from ground up, more information [here](/portfolio) 
   * Spoke actual clients to learn about real world project management
@@ -30,7 +30,7 @@ Work Experience
     * Adobe Cloud Studio
     * Final Cut Pro
   * Supervisor: Mark Zaske
-### PR-BS Inc. http://www.pr-bs.net/ 
+### PR-BS Inc.
  * Press Release Officer    | March 2015 - Present | Boca Raton, FL 
     * Publish events for non-profit cultural organizations and attractions to several outlets of information
     * The impact of my work is to promote local events that and help people stay in the ‘know'
