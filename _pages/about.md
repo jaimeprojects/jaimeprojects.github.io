@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "You found me! ʕっ•ᴥ•ʔっ"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
