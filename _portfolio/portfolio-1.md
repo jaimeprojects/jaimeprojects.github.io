@@ -12,7 +12,7 @@ Be able to monitor my laundry from anywhere in the world, and it would be compat
 
 # Method:
 
-The original idea that I had was to make an Internet of Things device that would utilize a 3-axis accelorometer to monitor activity. Once the wash would be completed it would pin a website that then talks to [IFTT](https://www.iftt.com) to then alert me that its complete either through adding an event to my calendar or sending me a message
+The original idea that I had was to make an Internet of Things device that would utilize a 3-axis accelorometer to monitor activity. Once the wash would be completed it would pin a website that then talks to [IFTT](https://ifttt.com/) to then alert me that its complete either through adding an event to my calendar or sending me a message
 
 # Obstacles
 
@@ -27,7 +27,7 @@ I designed several iterations at my on campus lab and 3D printed the enclsosures
 
 ### Stretch Goals
 * using additional position sensors I wanted to add a cycle recognition feature so that you could see live what stage the wash was in. 
-
+* get logistics for thngs like gallons of water used and energy used based on recorded times
 
 
 ## Other Docs
