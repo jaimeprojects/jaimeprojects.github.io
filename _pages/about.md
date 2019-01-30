@@ -15,5 +15,4 @@ My studies in Philosophy have opened my eyes to the wonders that is the world an
 This personal landing page is the best way to stay up to date with my projects!
 
 You can also find some of my educational and technical backround by looking [here!](/cv)
-
 For more information about some of my projects go [here!](/portfolio)
