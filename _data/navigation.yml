@@ -7,8 +7,8 @@ main:
     url: /portfolio/  
 
   - title: "Blog"
-    url: /posts/
-    
+    url: /year-archive/
+
   - title: "Markdown"
     url: /markdown/    
 #example
