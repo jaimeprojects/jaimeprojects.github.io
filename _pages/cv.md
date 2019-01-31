@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 * B.S. in Philosophy, Saint John's University, May 2019 (anticipated)
 * Minor in Computer Science
 
