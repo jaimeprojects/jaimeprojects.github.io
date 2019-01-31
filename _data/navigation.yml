@@ -6,6 +6,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/  
 
+  - title: "Blog"
+    url: /posts/
+    
+  - title: "Markdown"
+    url: /markdown/    
 #example
 #  - title: "Guide"
 #    url: /markdown/ <--name of html or file in same dir as this
