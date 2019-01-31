@@ -17,5 +17,5 @@ while(True):
     elif(spell == 'ls'):
         os.system("git status")
         print('incomplete feature TT')
-print('-- all done --ʕっ•ᴥ•ʔっ')
+print('-- all done -- ʕっ•ᴥ•ʔっ')
 #os.system("git status")
