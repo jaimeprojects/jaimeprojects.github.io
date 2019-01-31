@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Specs"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,4 +50,4 @@ Service and Leadership
 ======
 * Secretary Officer for Hmong American Involving Students Organization 2016-17
 * Program Coordinator for Asia Club 2017-18
-* Interculural Leadership Education and Development Scholar
+* Intercultural Leadership Education and Development Scholar
