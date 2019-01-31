@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "My Specs"
+  - title: "Education"
     url: /cv/
 
   - title: "Portfolio"
@@ -8,9 +8,7 @@ main:
 
   - title: "Blog"
     url: /year-archive/
-
-  - title: "Markdown"
-    url: /markdown/    
+   
 #example
 #  - title: "Guide"
 #    url: /markdown/ <--name of html or file in same dir as this
