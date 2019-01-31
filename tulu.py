@@ -12,6 +12,7 @@ while(True):
         print("commit message")
         message = input()
         os.system("git commit -m " + message)
+        os.system('git push origin master')
     elif(spell == 'ls'):
         os.system("git status")
         print('incomplete feature TT')
