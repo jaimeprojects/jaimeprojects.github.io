@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Welcome! Hola!
-======
+
 
 ### Why study Philosophy and Computer Science?
 There are a lot of problems that are tackled by both fields using different techniques
@@ -19,11 +19,11 @@ Some of them include
 * Artificial Intelligence / Cognitive Science
 
 ### Perspective
-There are practices in software engineering that benefit from a philosophy background because of the nature of field. In one hand I feel that the end user is human and that there are certain aspects of that that should be incorportated into the the development process. There are several solutions out there whether to make the end user more lofical to best interface withe the software we make or make the software more intuitive to  interface with people
+There are practices in software engineering that benefit from a philosophy background because of the nature of field. In one hand I feel that the end user is human and that there are certain aspects of that that should be incorportated into the the development process. There are several solutions out there whether to make the end user more lofical to best interface withe the software we make or make the software more intuitive to interface with people
 
 ### Personal Projects
 
-Some of the projects that you cna find here i have built in teams over the course of weveral months and have helped me become a more rounded software engineer. 
+Some of the projects that you can find here i have built in teams over the course of several months and have helped me become a more rounded software engineer. 
 
 For more information about some of my projects go [here!](/portfolio)
 
