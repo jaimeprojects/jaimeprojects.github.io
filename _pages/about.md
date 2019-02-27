@@ -23,7 +23,7 @@ There are practices in software engineering that benefit from a philosophy backg
 
 ### Personal Projects
 
-Some of the projects that you can find here i have built in teams over the course of several months and have helped me become a more rounded software engineer. 
+Some of the projects that you can find here I have built in teams over the course of several months and have helped me become a more rounded software engineer. Other projects I ahve done on my own out of wanting to build solutions to everyday problems.
 
 For more information about some of my projects go [here!](/portfolio)
 
