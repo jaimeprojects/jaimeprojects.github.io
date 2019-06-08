@@ -19,7 +19,7 @@ Some of them include
 * Artificial Intelligence / Cognitive Science
 
 ### Perspective
-There are practices in software engineering that benefit from a philosophy background because of the nature of field. In one hand I feel that the end user is human and that there are certain aspects of that that should be incorportated into the the development process. There are several solutions out there whether to make the end user more lofical to best interface withe the software we make or make the software more intuitive to interface with people
+There are practices in software engineering that benefit from a philosophy background because of the nature of field. In one hand I feel that the end user is human and that there are certain aspects of that that should be incorportated into the the development process. There are several solutions out there whether to make the end user more logical to best interface withe the software we make or make the software more intuitive to interface with people
 
 ### Personal Projects
 
