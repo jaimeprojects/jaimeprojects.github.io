@@ -24,7 +24,7 @@ The original idea that I had was to make an Internet of Things device that would
 * Having a device that is also impact resistant to tumbling
 
 ### Network
-The ESP8266 chipset only supports the WPA2 Wireless Protol, so I created my own network for the testing since most universities use Enterprise Internet
+The ESP8266 chipset only supports the WPA2 Wireless Protocol, so I created my own network for the testing since most universities use Enterprise Internet
 
 # Enclosure Design
 All 3-D iterations of the enclosure I designed using Blender and printed them using on campus 3-D printers
