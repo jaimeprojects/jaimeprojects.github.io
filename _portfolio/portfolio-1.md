@@ -35,7 +35,7 @@ All 3-D iterations of the enclosure I designed using Blender and printed them us
 
 # How it Works
 
-## The wash monitor once connected to an appropriate network can be placed into the Laundry machine and let it run its course
+## Before Wash
 * The monitor is designed to be placed along with the clothes so that it can better plot all of the data while clothes are being washed
 
 ## While in wash
