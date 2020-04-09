@@ -14,7 +14,8 @@ Bachelors of Arts in Philosophy with Minor in Computer Science
 
 
 ### Minnesota Supercomputing Institute
-#### Helpdesk Support Analyst December 2019 - Present Located in: Minneapolis,MN
+#### Helpdesk Support Analyst
+#### December 2019 - Present Located in: Minneapolis,MN
 * Support high performance computing environment (hardware, software, and networking)
 * Contribute support to clinical pipelines developed by members of Research Informatics team
 * Maintain and create documentation for future hardware/software used by MSI users and staff
@@ -22,16 +23,16 @@ Bachelors of Arts in Philosophy with Minor in Computer Science
 
 
 ### Past Work Experience
-======
+
 ### Divine Digital Agency
 #### Web/Mobile Development **Internship**    
-June 2018 - August 2018  Located in: Naples, FL
+#### June 2018 - August 2018  Located in: Naples, FL
   * Built a client application from ground up, more information [here](/portfolio)
   * Contributed to product development lifecycle.
 
 ### College of Saint Benedict
 #### Student Media Technician
-January 2017 - May 2019  Located in: St.Joseph, MN
+#### January 2017 - May 2019  Located in: St.Joseph, MN
   * Duties included: Provide event support to guest lectures and other large scale events
   * Trained in audio/visual equipment set up and cinematography
     * Adobe Cloud Studio
@@ -39,12 +40,12 @@ January 2017 - May 2019  Located in: St.Joseph, MN
 
 ### Public Relations By Schweikhart (remote)
 #### Press Release Posting
- March 2014 - April 2019  Boca Raton, FL
+#### March 2014 - April 2019  Located in: Boca Raton, FL
     * Publish events for non-profit cultural organizations and attractions to several outlets of information
 
 ### Saint John’s University
 #### Student Office Assistant
-May 2017 - August 2017 Located in: Collegeville, MN
+#### May 2017 - August 2017 Located in: Collegeville, MN
 * Management of job/internship database for Students/Alums
 * Answer phone calls and front desk duties
 * Be courteous to clients and their time
