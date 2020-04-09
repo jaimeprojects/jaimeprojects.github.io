@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Saint John's University, 2015-19
-* Bachelors of Arts in Philosophy with Minor in Computer Science
+Bachelors of Arts in Philosophy with Minor in Computer Science
 
 
-Current:
 ### Minnesota Supercomputing Institute
 #### Helpdesk Support Analyst December 2019 - Present Located in: Minneapolis,MN
 * Support high performance computing environment (hardware, software, and networking)
@@ -22,7 +21,7 @@ Current:
 
 
 
-Past Work Experience
+### Past Work Experience
 ======
 ### Divine Digital Agency
 #### Web/Mobile Development **Internship**    
