@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "You found me! ʕっ•ᴥ•ʔっ"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,21 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome! Bienvenidos!
+## Welcome! Bienvenidos! 
 
 
-### Why study Philosophy and Computer Science?
-Both fields provide an approach to the world, and can be be used in combination to reach new grounds in understanding our existence. Some of the benefits
-of high performance computing is the time folding aspect that comes from parallelizing computations that would otherwise take an longer time than necessary
-to answer. A nice thought are all the innovations that have come from thinking of what could be and bringing it to reality by manipulating time to our benefit.
+### Landing Page 
 
-### Personal Projects
+On this small collection of pages I'd like to showcase some of my background along with some the project that I have built that I think are neat ;)
 
-Some of the projects that you can find here I have contributed to over the course of several months and have helped me become a more rounded software engineer. Other projects I have done on my own out of wanting to build solutions to everyday problems.
-
-For more information about some of my projects go [here!](/portfolio)
 
 ### My Background
-I have worked in a number of different industries so far and if you want more information about a specific experience feel free to contact me for additional details.
-
-You can also find some of my educational and technical background by looking [here!](/cv)
+I am orignially from a small town in Florida and later I moved to Minnesota where I completed my undergraduate studies. Along the way I've had the opportunity to meet and learn from some smart beans. You may find some more information about my skills by checking [here!](/cv)
