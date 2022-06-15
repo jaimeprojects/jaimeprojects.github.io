@@ -18,12 +18,12 @@ On this small collection of pages I'd like to showcase some of my background alo
 ![Image](https://giphy.com/gifs/processing-coding-creative-npIVZg7MYoEUg)
 
 
-### My Background
+**My Background**
 I am orignially from a small town in Florida and later I moved to Minnesota where I completed my undergraduate studies in Philosophy and Computer Science. Along the way I've had the opportunity to meet and learn from some smart beans.
 
 ---
 
-* Work Experience *
+**Work Experience**
 HPC User Support Analyst | Minnesota Supercomputing Institute          
 ### Minneapolis,MN | December 2019 - Present
 * Core Responsibility
@@ -37,7 +37,7 @@ HPC User Support Analyst | Minnesota Supercomputing Institute
 ---
 
 
-*Education*
+**Education**
 Saint John's University | Collegeville, MN | Graduated in May 2019
 BA Philosophy | Minor in Computer Science 
 
@@ -45,7 +45,7 @@ BA Philosophy | Minor in Computer Science
 - Intercultural Leadership Education and Development Scholar
 - Program Coordinator for Asia Club
 
-### Some of my Relevant Coursework
+**Some of my Relevant Coursework**
 ======
   * Data Structures Spring 2018
   * Software Development Spring 2018
@@ -55,7 +55,7 @@ BA Philosophy | Minor in Computer Science
 
 ---
 
-## Skills & Interests
+**Skills & Interests**
 
 * Secretary Officer for Hmong American Involving Students (HAIS) 2016-17
 * Program Coordinator for Asia Club 2017-18
