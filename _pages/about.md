@@ -23,8 +23,8 @@ I am orignially from a small town in Florida and later I moved to Minnesota wher
 
 ---
 
-## Work Experience
-### HPC User Support Analyst at the Minnesota Supercomputing Institute          
+* Work Experience *
+HPC User Support Analyst | Minnesota Supercomputing Institute          
 ### Minneapolis,MN | December 2019 - Present
 * Core Responsibility
   - Worked with staff to provide a support role to users diagnose resource requests job troubleshooting
@@ -37,9 +37,9 @@ I am orignially from a small town in Florida and later I moved to Minnesota wher
 ---
 
 
-## Education
-## Saint John's University | Collegeville, MN | Graduated in May 2019
-## BA Philosophy | Minor in Computer Science 
+*Education*
+Saint John's University | Collegeville, MN | Graduated in May 2019
+BA Philosophy | Minor in Computer Science 
 
 - Studied Abroad in Seoul, South Korea Summer 2016
 - Intercultural Leadership Education and Development Scholar
