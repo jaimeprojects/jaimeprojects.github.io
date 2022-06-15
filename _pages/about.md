@@ -29,7 +29,7 @@ In the 'Portfolio' tab above you'll be able to find some of the projects I feel 
 
 **Work Experience**
 ### HPC User Support Analyst
-Minnesota Supercomputing Institute | Minneapolis,MN | December 2019 - Present    
+**Minnesota Supercomputing Institute** | Minneapolis,MN | December 2019 - Present    
 
 * Core Responsibility
   - Worked with staff to provide a support role to users diagnose resource requests job troubleshooting
@@ -61,6 +61,6 @@ BA Philosophy | Minor in Computer Science
 
 **Skills & Interests**
 
-* Secretary Officer for Hmong American Involving Students (HAIS) 2016-17
-* Program Coordinator for Asia Club 2017-18
-* Intercultural Leadership Education and Development Scholar 2015-19 (ILEAD)
+Skills : Python; Unix/Bash; Torque PBS / Slurm Job scheduling; Java; SQL; Account Management;  
+
+Interests : Light Novels; Cooking;  Recipe Testing; Hiking; Seinfeld; Skydiving
