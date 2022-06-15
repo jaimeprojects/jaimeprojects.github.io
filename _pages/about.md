@@ -17,15 +17,20 @@ On this small collection of pages I'd like to showcase some of my background alo
 
 
 **My Background**
+
 I am orignially from a small town in Florida and later I moved to Minnesota where I completed my undergraduate studies in Philosophy and Computer Science. Along the way I've had the opportunity to meet and learn from some smart beans.
+
+
+**Project Showcase**
+
+In the 'Portfolio' tab above you'll be able to find some of the projects I feel were interesting to implement. I'll walk through some of the challenges and obstacles encountered and my solutions to make a reliable solution.
 
 ---
 
 **Work Experience**
-
 ### HPC User Support Analyst
-Minnesota Supercomputing Institute | December 2019 - Present    
-Minneapolis,MN 
+Minnesota Supercomputing Institute | Minneapolis,MN | December 2019 - Present    
+
 * Core Responsibility
   - Worked with staff to provide a support role to users diagnose resource requests job troubleshooting
   - Maintain internal documentation as hardware/system changes were adopted and utilized for onboarding new staff
@@ -38,7 +43,6 @@ Minneapolis,MN
 
 
 **Education**
-
 ### Saint John's University | Collegeville, MN | Graduated in May 2019
 BA Philosophy | Minor in Computer Science 
 
