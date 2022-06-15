@@ -22,6 +22,7 @@ BA Philosophy | Minor in Computer Science
 * Maintain and create documentation for future hardware/software used by MSI users and staff
 
 
+
 Some of my Relevant Coursework
 ======
   * Data Structures Spring 2018

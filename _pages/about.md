@@ -18,31 +18,30 @@ On this small collection of pages I'd like to showcase some of my background alo
 
 ### My Background
 I am orignially from a small town in Florida and later I moved to Minnesota where I completed my undergraduate studies in Philosophy and Computer Science. Along the way I've had the opportunity to meet and learn from some smart beans.
+---
+
+## Work Experience
+### Minnesota Supercomputing Institute          December 2019 - Present
+#### HPC User Support Analyst                   Minneapolis,MN
+* Core Responsibility
+  - Worked with staff to provide a support role to users diagnose resource requests job troubleshooting
+  - Maintain internal documentation as hardware/system changes were adopted and utilized for onboarding new staff
+* Secondary Responsibility (30% of my time)
+  - Collaborate with Manager of Lab Medicine and Pathology Bioinformatics Group on ongoing projects
+  - Maintain Github repository of Clinical Pipeline documentation
 
 
-# Work Experience
+---
 
-### Minnesota Supercomputing Institute
-#### HPC User Support Analyst
-#### December 2019 - Present | Minneapolis,MN
-* Support high performance computing environment (hardware, software, and networking)
-* Contribute support to clinical pipelines developed by members of Research Informatics team
-* Maintain and create documentation for future hardware/software used by MSI users and staff
-
-
-
-
-Skills & Interests
-======
-* Secretary Officer for Hmong American Involving Students (HAIS) 2016-17
-* Program Coordinator for Asia Club 2017-18
-* Intercultural Leadership Education and Development Scholar 2015-19 (ILEAD)
 
 # Education
 
 ## Saint John's University
 #### Collegeville, MN | Graduated in May 2019
 BA Philosophy | Minor in Computer Science
+- Studied Abroad in Seoul, South Korea Summer 2016
+- Intercultural Leadership Education and Development Scholar
+- Program Coordinator for Asia Club
 
 Some of my Relevant Coursework
 ======
@@ -51,3 +50,10 @@ Some of my Relevant Coursework
   * Software Engineering Fall 2018
   * Agile & Efficient Software Development Spring 2019
   * Data Communications & Networking Spring 2019
+
+---
+  Skills & Interests
+======
+* Secretary Officer for Hmong American Involving Students (HAIS) 2016-17
+* Program Coordinator for Asia Club 2017-18
+* Intercultural Leadership Education and Development Scholar 2015-19 (ILEAD)
