@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jaime E. Vega"
-  avatar           : "jaime.png"
-  bio              : "Parallelise it! ʕっ•ᴥ•ʔっ"
-  location         : "Minneapolis"
+  avatar           : "jaime_portrait.png"
+  bio              : "My Personal Page ʕっ•ᴥ•ʔっ"
+  location         : "Minneapolis, MN"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jevega@csbsju.edu"
+  email            : "vega.e.jaime@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
