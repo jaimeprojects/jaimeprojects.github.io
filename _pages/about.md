@@ -3,6 +3,9 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 redirect_from:
   - /about/
   - /about.html
@@ -43,7 +46,7 @@ In the 'Portfolio' tab above you'll be able to find some of the projects I feel 
 
 
 **Education**
-### Saint John's University | Collegeville, MN | Graduated in May 2019
+**Saint John's University** | Collegeville, MN | Graduated in May 2019
 BA Philosophy | Minor in Computer Science 
 
 - Studied Abroad in Seoul, South Korea Summer 2016
