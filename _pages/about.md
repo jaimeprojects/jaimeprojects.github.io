@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Welcome! Bienvenidos!"
+#excerpt: "About me"
 author_profile: true
 toc: true
 toc_label: "My Table of Contents"
@@ -10,9 +10,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## Welcome! Bienvenidos! 
-
 
 ### Landing Page 
 
