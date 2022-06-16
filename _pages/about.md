@@ -19,18 +19,18 @@ redirect_from:
 On this small collection of pages I'd like to showcase some of my background along with some the project that I have built that I think are neat ;)
 
 
-**My Background**
+# **My Background**
 
 I am orignially from a small town in Florida and later I moved to Minnesota where I completed my undergraduate studies in Philosophy and Computer Science. Along the way I've had the opportunity to meet and learn from some smart beans.
 
 
-**Project Showcase**
+# **Project Showcase**
 
 In the 'Portfolio' tab above you'll be able to find some of the projects I feel were interesting to implement. I'll walk through some of the challenges and obstacles encountered and my solutions to make a reliable solution.
 
 ---
 
-**Work Experience**
+# **Work Experience**
 ### HPC User Support Analyst
 **Minnesota Supercomputing Institute** | Minneapolis,MN | December 2019 - Present    
 
@@ -45,7 +45,7 @@ In the 'Portfolio' tab above you'll be able to find some of the projects I feel 
 ---
 
 
-**Education**
+# **Education**
 **Saint John's University** | Collegeville, MN | Graduated in May 2019
 BA Philosophy | Minor in Computer Science 
 
@@ -62,7 +62,7 @@ BA Philosophy | Minor in Computer Science
 
 ---
 
-**Skills & Interests**
+# **Skills & Interests**
 
 Skills : Python; Unix/Bash; Torque PBS / Slurm Job scheduling; Java; SQL; Account Management;  
 
